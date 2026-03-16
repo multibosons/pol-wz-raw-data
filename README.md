@@ -1,5 +1,3 @@
-# pol-wz-raw-data
-
 # Doubly polarised WZ inclusive production at LHC
 
 Raw data produced for p p -> W+(e+ nu_e) Z(mu+ mu-) + X @ NNLOQCD + NLOEW accuracy.
